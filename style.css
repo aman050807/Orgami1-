@@ -1,0 +1,55 @@
+h1 {
+    color:white;
+    margin-left: 500px;
+}
+
+ .header * {
+    border: solid;
+}
+
+.header{
+    background-color: black;
+    display: flex
+}
+.grid{
+    background-color:blue;
+    display: flex;
+    flex-wrap:  wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color:chocolate;
+    display:flex;
+    justify-content: flex-end;
+}
+
+/*/><
+?\]'[0 9,O8M6JN5HB4GVR3FCE2DXWSZa:link{
+    color: crimson;
+}
+a:visited{
+    color: darkorange;
+}
+.menu{
+    margin-right:30px;
+}
+.menu a{
+    margin-left:30px;
+}
+.item{
+    position:relative;
+}
+.item p{
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+    opacity: 0;
+}
+.item:hover p{
+opacity: 1;
+}
+.item:hover img{
+opacity: 0.33;
+}*/
